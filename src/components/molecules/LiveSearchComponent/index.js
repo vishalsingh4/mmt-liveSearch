@@ -9,7 +9,7 @@ const LiveSearchWrapper = styled.div`
   border-radius: 10px;
   position: absolute;
   top: 17%;
-  left: 30%;
+  left: 38.5%;
   background: #e5e5e5;
   max-height: 36rem;
   overflow-y: auto;
